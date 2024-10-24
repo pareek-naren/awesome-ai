@@ -17,6 +17,7 @@
 - [Jasper](https://www.jasper.ai) - Jasper is the best AI writer and AI art generator for teams with over 3,000 5-star reviews. Create blog posts, marketing copy, and AI-generated images fast.
 - [Surfer](https://surferseo.com) - Use Surfer to research, write, optimize, and audit! Everything you need to create a comprehensive content strategy that yields real results is right here.
 - [Synthesia](https://www.synthesia.io) - Create videos from plain text in minutes. Synthesia is an AI video creation platform. Thousands of companies use it to create videos in 120 languages, saving up to 80% of their time and budget.
+- [LogicBalls](https://logicballs.com/) - LogicBalls is an AI writing tool that helps you create virtually any type of content, whether it’s for sales, marketing, SEO, social media, real estate, everyday life, and more, all while boosting your productivity.
 
 ## Developer
 
